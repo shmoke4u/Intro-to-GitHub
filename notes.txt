@@ -1,0 +1,5 @@
+Assignment #3 - Introduction to GitHub
+Notes:
+- Git tracks changes locally.
+- GitHub hosts repositories remotely and adds collaboration features.
+- This file is one of the three sample files uploaded for Task 3.
